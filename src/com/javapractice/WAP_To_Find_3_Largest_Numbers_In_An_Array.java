@@ -1,10 +1,9 @@
 package com.javapractice;
 
 /*
- * Java Program to Generate Multiplication Table
- * 
+ * Program: Find the largest three numbers in the array 
  */
-public class WAP_To_Print_Multiples_Of_3 {
+public class WAP_To_Find_3_Largest_Numbers_In_An_Array {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

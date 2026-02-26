@@ -1,10 +1,6 @@
 package com.javapractice;
 
-/*
- * Java Program to Generate Multiplication Table
- * 
- */
-public class WAP_To_Print_Multiples_Of_3 {
+public class WAP_To_Find_NonDuplicates_and_Store_Them_In_An_Array {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

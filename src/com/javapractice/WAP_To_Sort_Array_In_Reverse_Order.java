@@ -1,10 +1,9 @@
 package com.javapractice;
 
 /*
- * Java Program to Generate Multiplication Table
- * 
+ * Sort array in reverse order
  */
-public class WAP_To_Print_Multiples_Of_3 {
+public class WAP_To_Sort_Array_In_Reverse_Order {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
