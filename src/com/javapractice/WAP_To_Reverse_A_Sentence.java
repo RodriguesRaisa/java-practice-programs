@@ -15,6 +15,8 @@ String a = “abc-2019”
 O/p 
 [abc] 
 [2019] 
+
+String question inputString = “one two”; Output string =”eno owt”. 
  */
 public class WAP_To_Reverse_A_Sentence {
 

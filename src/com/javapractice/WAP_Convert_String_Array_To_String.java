@@ -1,5 +1,8 @@
 package com.javapractice;
 
+/*
+ * String [] str={“ABC,” “egg,” “fight”}; convert array to string.
+ */
 public class WAP_Convert_String_Array_To_String {
 
 	public static void main(String[] args) {

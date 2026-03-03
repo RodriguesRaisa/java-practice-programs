@@ -3,6 +3,8 @@ package com.javapractice;
 /*
  * There is a string “tomorrow”, 
  * First o replace with x second “o” replace with xx and third o replace with xxx 
+ * 
+ * WAP to find input = “Tomorrow”, Output= “T&m&&rr&&&w” 
  */
 public class WAP_To_Replace_O_with_X_In_String {
 
